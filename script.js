@@ -12,18 +12,18 @@ let secondCard = false;
 
 //Items array
 const items = [
-  { name: "bibimbap", image: "/images/bibimbap.png" },
-  { name: "donut", image: "/images/donut.png" },
-  { name: "drink", image: "/images/drink.png" },
-  { name: "hamburger", image: "/images/hamburger.png" },
-  { name: "pizza", image: "/images/pizza.png" },
-  { name: "ramen", image: "/images/ramen.png" },
-  { name: "snacks", image: "/images/snacks.png" },
-  { name: "taco", image: "/images/taco.png" },
-  { name: "vegetables", image: "/images/vegetables.png" },
-  { name: "fastfood", image: "/images/fastfood.png" },
-  { name: "frenchfries", image: "/images/frenchfries.png" },
-  { name: "masaladosa", image: "/images/masaladosa.png" },
+  { name: "bibimbap", image: "images/bibimbap.png" },
+  { name: "donut", image: "images/donut.png" },
+  { name: "drink", image: "images/drink.png" },
+  { name: "hamburger", image: "images/hamburger.png" },
+  { name: "pizza", image: "images/pizza.png" },
+  { name: "ramen", image: "images/ramen.png" },
+  { name: "snacks", image: "images/snacks.png" },
+  { name: "taco", image: "images/taco.png" },
+  { name: "vegetables", image: "images/vegetables.png" },
+  { name: "fastfood", image: "images/fastfood.png" },
+  { name: "frenchfries", image: "images/frenchfries.png" },
+  { name: "masaladosa", image: "images/masaladosa.png" },
 ];
 
 //Initial Time
